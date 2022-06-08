@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ediney Andrade
 
-- 🔭 Não estou trabalhando no momento...
-- 🌱 Atualmente estou aprendendo Java
+- 🔭 Software Developer | Consultor SAP Cloud Platform Integration | SAP CPI
+- 🌱 Atualmente estou aprendendo Groovy Script
 - 🤔 Estou procurando ajuda com HTML CSS
 - 😄 Pronomes: ele/dele
 
