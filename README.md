@@ -2,7 +2,6 @@
 
 - 🔭 Software Developer | Consultor SAP Cloud Platform Integration | SAP CPI
 - 🌱 Estudo Constante em Java e Groovy
-- 🤔 Estou procurando ajuda com HTML CSS
 - 😄 Pronomes: ele/dele
 
 <div>
