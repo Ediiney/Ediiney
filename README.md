@@ -9,7 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Ediiney&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediiney&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+  </a>
+</p>
   <img align="right" alt="Ediney-gif" height="200" width="180" src="https://c.tenor.com/nyYLGlzG3nMAAAAC/mr-robot-control-is-an-illusion.gif">
 </div>
   
