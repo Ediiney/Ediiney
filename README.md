@@ -20,6 +20,7 @@ src="https://img.shields.io/badge/sap-blue">
   <img align="center" alt="Ediney-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ediney-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ediney-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Ediney-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg">
   <img align="right" alt="Ediney-gif" height="200" width="180" src="https://c.tenor.com/nyYLGlzG3nMAAAAC/mr-robot-control-is-an-illusion.gif">
 </div>
   
