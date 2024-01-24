@@ -11,7 +11,7 @@
 </div>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,spring,mysql,html,css,vscode,postman,ocamel,maven,linux,idea,eclipse,heroku,linkedin,github,instagran,discord&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,spring,mysql,html,css,vscode,postman,ocaml,maven,linux,idea,eclipse,heroku,linkedin,github,instagram,discord&perline=5" />
   </a>
 </p>
   <img align="right" alt="Ediney-gif" height="200" width="180" src="https://c.tenor.com/nyYLGlzG3nMAAAAC/mr-robot-control-is-an-illusion.gif">
