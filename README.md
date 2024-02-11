@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/Ediiney">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Ediiney&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediiney&hide_progress=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediiney&layout=compact&size_weight=0&count_weight=1&theme=radical&langs_count=6"/>
 </div>
 <p align="start">
   <a href="https://skillicons.dev">
